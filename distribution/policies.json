@@ -1,11 +1,9 @@
 {
    "__COMMENT__ More Information":"https://github.com/mozilla/policy-templates/blob/master/README.md",
    "policies":{
-      "AppUpdateURL":"https://0.0.0.0",
-      "DisableAppUpdate":true,
       "OverrideFirstRunPage":"",
       "OverridePostUpdatePage":"",
-      "DisableSystemAddonUpdate":true,
+      "DisableSystemAddonUpdate":false,
       "DisableProfileImport":false,
       "DisableFirefoxAccounts":false,
       "DisableFirefoxStudies":true,
