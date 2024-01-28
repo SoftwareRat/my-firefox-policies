@@ -165,14 +165,6 @@
                "Description":"Using cf.farside.link to use random searx instance search engine"
             },
             {
-               "Name":"Metapedia",
-               "URLTemplate":"https://de.metapedia.org/wiki/Spezial:Suche?search={searchTerms}",
-               "Method":"GET",
-               "IconURL":"https://de.metapedia.org/favicon.ico",
-               "Alias":"@metapedia",
-               "Description":"Die alternative Enzyklopädie"
-            },
-            {
                "Name":"Wikipedia [Deutsch]",
                "URLTemplate":"https://de.wikipedia.org/wiki/Spezial:Suche?search={searchTerms}",
                "Method":"GET",
